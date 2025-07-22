@@ -54,9 +54,10 @@ All dependencies are loaded via CDN, so no installation is required.
 
 ## Credits
 
-Created by **Devang**  ## Credits
-Contact: devangkumarprajapati1908@gmail.com
+Created by **Devang**
 
+Contacts on 
+- [Email](devangkumarprajapati1908@gmail.com)
 - [Instagram](https://www.instagram.com/dev_daksh__/)
 - [LinkedIn](https://www.linkedin.com/in/devang-kumar-41642a366)
 - [Guthub](https://github.com/Devangdaksh)
